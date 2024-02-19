@@ -2,6 +2,6 @@ package ru.mts.homework;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Test feature-branch");
+        System.out.println("Create bugfix-branch");
     }
 }
